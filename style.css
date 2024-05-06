@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+#textfield {
+    width: 165px;
+    height: 19px;
+    border-color: #099B07;
+    border-width: 3px;
+    background-color: #FD696B;
+}
+#password {
+    border-color: #72FB70;
+    background-color: #E5C3F7;
+}
+.Usernamet {
+    color: #090083;
+    font-style: oblique;
+}
+#submit {
+    left: 0px;
+    padding-left: 29px;
+    right: -9px;
+    padding-right: 23px;
+    padding-top: 8px;
+    margin-left: 187px;
+    padding-bottom: 7px;
+}
+.body {
+}
